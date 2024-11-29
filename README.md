@@ -12,7 +12,7 @@ A simple task management system built using React, TailwindCSS, and Babel. This 
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/task-management-system.git
+   git clone https://github.com/latha0001/Task-Management-System
    cd task-management-system
 
 
